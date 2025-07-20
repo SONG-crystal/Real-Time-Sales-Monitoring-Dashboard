@@ -4,7 +4,8 @@ This project involves building an automated ETL pipeline using Azure Data Factor
 
 This project uses Azure services (e.g., Azure Data Factory, Azure Cosmos DB, etc.). Because running the project incurs costs for Azure resources, I have deleted the resources after use to avoid unnecessary charges.
 
-Resources used:
+
+## Resources used:
 - Resource Group
 - Azure Cosmos DB
 - Data Factory
